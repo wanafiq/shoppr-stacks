@@ -1,3 +1,8 @@
+######################
+# Project
+######################
+data
+
 ##############################
 ## Java
 ##############################
@@ -49,7 +54,6 @@ out/
 ## Eclipse
 ##############################
 .settings/
-bin/
 tmp/
 .metadata
 .classpath
@@ -66,7 +70,6 @@ local.properties
 ## NetBeans
 ##############################
 nbproject/private/
-build/
 nbbuild/
 dist/
 nbdist/
